@@ -1,7 +1,7 @@
 # Corpus-Literatura-cavaleiresca-ibérica
 Corpus réalisé dans le cadre de mon travail de recherche intitulé « Le modèle des espèces non vues appliqué à la littérature chevaleresque en langues ibériques ». Le corpus n'est pas encore achevé. Des suggestions et/ou corrections sont plus que bienvenues. Vous pouvez le consulter en téléchargeant le fichier CSV [ici](adata_m2.csv).
 
-**Le modèle des espèces non vues appliqué à la littérature chevaleresque en langues ibériques**
+##Le modèle des espèces non vues appliqué à la littérature chevaleresque en langues ibériques
 
 Mon projet de recherche a été inspiré par l'article ["Forgotten Books: The Application of Unseen Species Models to the Survival of Culture"](https://github.com/mikekestemont/forgotten-books) de [Mike Kestemont](https://mikekestemont.github.io/) et [Folgert Karsdorp](https://www.karsdorp.io/) (et *al.*), publié dans la revue [Science](https://www.science.org/doi/10.1126/science.abl7655) en 2022. Cet article présente les résultats d'une vaste étude menée par une équipe de chercheurs sur la littérature épique et chevaleresque dans six langues différentes.
 
