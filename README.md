@@ -1,7 +1,7 @@
 # Corpus-Literatura-cavaleiresca-ibérica
 Corpus réalisé dans le cadre de mon travail de recherche intitulé « Le modèle des espèces non vues appliqué à la littérature chevaleresque en langues ibériques ». Le corpus n'est pas encore achevé. Des suggestions et/ou corrections sont plus que bienvenues. Vous pouvez le consulter en téléchargeant le fichier CSV [ici](adata_m2.csv).
 
-#Le modèle des espèces non vues appliqué à la littérature chevaleresque en langues ibériques
+**Le modèle des espèces non vues appliqué à la littérature chevaleresque en langues ibériques**
 
 Mon projet de recherche a été inspiré par l'article ["Forgotten Books: The Application of Unseen Species Models to the Survival of Culture"](https://github.com/mikekestemont/forgotten-books) de [Mike Kestemont](https://mikekestemont.github.io/) et [Folgert Karsdorp](https://www.karsdorp.io/) (et *al.*), publié dans la revue [Science](https://www.science.org/doi/10.1126/science.abl7655) en 2022. Cet article présente les résultats d'une vaste étude menée par une équipe de chercheurs sur la littérature épique et chevaleresque dans six langues différentes.
 
@@ -19,6 +19,7 @@ Les auteurs considèrent, dans le cadre de ces recherches, que les œuvres litt�
 Ainsi, les espèces (ou œuvres) qui existent dans l'ensemble mais n'ont pas été observées – désignées par f_0 – peuvent faire l'objet d'un calcul. Ce calcul se base sur le nombre d'espèces repérées une seule fois (les singletons) et le nombre d'espèces repérées deux fois (les doubletons) dans un ensemble de taille n. À ce calcul, on ajoute les œuvres uniques repérées dans un ensemble de n documents, notées fSobs, afin de calculer la richesse originelle des œuvres. En utilisant cet estimateur, les auteurs pourront obtenir deux types de résultats dans leurs recherches : ils seront en mesure non seulement de calculer les espèces (ou dans ce cas, les œuvres littéraires) qui n'ont pas été observées, mais aussi de mesurer de manière significative la richesse originelle d'une population, soit ici celle des œuvres littéraires.
 
 **Élaboration du corpus**
+
 Je travaille avec la littérature épique et chevaleresque, couvrant divers genres tels que la chanson de geste, le poème épique, le roman de chevalerie, etc ...,  écrite dans diverses langues ibéro-romanes et qui s'étend sur une période allant du XIIIe au XVIe siècle. Dans ce corpus, je recense tous les témoins subsistants de ce genre littéraire, qu'il s'agisse de manuscrits ou d'imprimés.
 
 Bien que les données concernant les œuvres littéraires chevaleresques en espagnol soient relativement bien développées, la situation est différente pour les œuvres en portugais. La matière arthurienne en portugais a certes reçu une attention particulière, mais il reste beaucoup à faire dans ce domaine. Récemment, le seul *corpus* existant sur ce sujet a été créé par le chercheur [Aurelio Vargas Díaz-Toledo](https://www.ucm.es/aureliovargasdiaztoledo/) et  il se concentre principalement sur la [littérature chevaleresque portugaise](https://parnaseo.uv.es/UniversoDeAlmourol/) de la Renaissance.
@@ -45,6 +46,7 @@ Voici quelques-unes des sources bibliographiques principales que nous avons util
 
 
 **Description du corpus**
+
 Le corpus hebergé sur le fichier intitulé adata fait référence au terme *abondance data*, utilisé dans le champ de l’écologie et repris par Kestemont *et al.* pour traduire, dans le cas de la littérature médiévale, la totalité des témoins ayant pu être observés.
 
 Le corpus est constitué de 19 colonnes. 
@@ -67,6 +69,7 @@ Enfin, un espace sera réservé aux liens des documents si une *copie digitalis�
 des particularités que nous aurons pu signalé ainsi que les informations supplémentaires qui nous tiendrons pour pertinentes.
 
 **License**
+
  Creative Commons Attribution-- NonCommercial-ShareAlike 4.0 International License.
 
 
