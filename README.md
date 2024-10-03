@@ -16,6 +16,9 @@ En conséquence, les espèces (ou œuvres littéraires) qui existent dans l'ense
 
 En utilisant cette approche, ce projet vise à apporter une nouvelle compréhension de la diversité et de la transmission culturelle des œuvres médiévales, tout en quantifiant les pertes subies au fil des siècles dans le domaine de la littérature chevaleresque ibérique.
 
+[![Aperçu de la vidéo](docs/apercu_video.png)](https://vimeo.com/677201737)
+
+
 ## Contenu
 - **/docs/** : Documentation du projet, y compris le mémoire complet et des articles pertinents pour approfondir la compréhension des concepts employés.
 - **/data/** : Textes sources et échantillons utilisés pour l'analyse, comprenant des extraits de la littérature chevaleresque ibérique.
