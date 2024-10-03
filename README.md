@@ -1,10 +1,19 @@
 # Le Modèle des Espèces Non Vues Appliqué à la Littérature Chevaleresque Ibérique
+![Titre du GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo1M255am1teXNteXFmajBiMGswbXZsbnAxZGRxcWJha3Qzbm40aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5L3Oy0xOXjnbTDFGBD/giphy.gif)
+
+
 
 ## Description
 
 Ce dépôt contient le travail effectué dans le cadre d'un mémoire de Master en Humanités Numériques intitulé **"Le modèle des espèces non vues appliqué à la littérature chevaleresque dans la Péninsule Ibérique"**. Ce projet explore des méthodes quantitatives et computationnelles pour estimer la richesse et la diversité des textes médiévaux, en utilisant des modèles statistiques adaptés.
 
 Ce projet de recherche s'inspire de l'article ["Forgotten Books: The Application of Unseen Species Models to the Survival of Culture"](https://github.com/mikekestemont/forgotten-books), coécrit par [Mike Kestemont](https://mikekestemont.github.io/) et [Folgert Karsdorp](https://www.karsdorp.io/) (et *al.*), publié dans la revue [Science](https://www.science.org/doi/10.1126/science.abl7655) en 2022. Cet article présente les résultats d'une étude approfondie menée sur la littérature épique et chevaleresque, couvrant six langues différentes.
+
+
+Une présentation du projet est disponible sur la vidéo explicative ci-dessous :
+[![Aperçu de la vidéo](docs/apercu_video.png)](https://vimeo.com/677201737)
+
+
 
 Les auteurs de cette étude partent d'un constat : parmi la multitude d'artefacts culturels créés à l'origine, seule une infime partie nous est parvenue. Cela pose une question fondamentale : **comment estimer la quantité d'œuvres qui ont été perdues ?** Afin d'estimer ces pertes quantitativement, les auteurs proposent l'application d'un modèle statistique sur un ensemble de données littéraires.
 
@@ -15,9 +24,6 @@ Dans ce cadre, les œuvres littéraires sont considérées comme des espèces en
 En conséquence, les espèces (ou œuvres littéraires) qui existent dans l'ensemble mais qui n'ont pas été observées – désignées par $f0$ – peuvent être calculées. Ce calcul repose sur le nombre d'espèces observées une seule fois (les singletons) et deux fois (les doubletons) dans un ensemble de taille $n$. À cela, on ajoute les œuvres uniques repérées dans un ensemble de $n$ documents, notées $fSobs$, afin de déterminer la richesse originelle des œuvres. Grâce à cet estimateur, il est possible non seulement de calculer le nombre d'œuvres littéraires perdues, mais également d'estimer la richesse totale initiale d'une population littéraire.
 
 En utilisant cette approche, ce projet vise à apporter une nouvelle compréhension de la diversité et de la transmission culturelle des œuvres médiévales, tout en quantifiant les pertes subies au fil des siècles dans le domaine de la littérature chevaleresque ibérique.
-
-[![Aperçu de la vidéo](docs/apercu_video.png)](https://vimeo.com/677201737)
-
 
 ## Contenu
 - **/docs/** : Documentation du projet, y compris le mémoire complet et des articles pertinents pour approfondir la compréhension des concepts employés.
