@@ -2,7 +2,6 @@
 ![Titre du GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo1M255am1teXNteXFmajBiMGswbXZsbnAxZGRxcWJha3Qzbm40aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5L3Oy0xOXjnbTDFGBD/giphy.gif)
 
 
-
 ## Description
 
 Ce dépôt contient le travail effectué dans le cadre d'un mémoire de Master en Humanités Numériques intitulé **"Le modèle des espèces non vues appliqué à la littérature chevaleresque dans la Péninsule Ibérique"**. Ce projet explore des méthodes quantitatives et computationnelles pour estimer la richesse et la diversité des textes médiévaux, en utilisant des modèles statistiques adaptés.
